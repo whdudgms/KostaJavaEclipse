@@ -1,0 +1,24 @@
+package com.kosta.exam;
+
+public class Homework {
+	public static void main(String[] args) {
+		
+		String[] str = 
+			{
+					천귀 : 귀인 대접
+					천액 : 액땜
+					천권 : 권력, 리더십
+					천파 : 파동이 있어요, 해외 이주
+					천인 : 인간성, 법 없이도 살 사람
+					천문 : 머리가 좋아
+					천복 : 복을 갖고태어남
+					천고 : 외로움을 많이 타요
+					천역 : 역마살, 다방면에 관심
+					천간 : 이성에게 매력
+					천수 : 손재주가 있어요.
+					천명 : 명이 길어요	
+			};
+
+	}
+
+}

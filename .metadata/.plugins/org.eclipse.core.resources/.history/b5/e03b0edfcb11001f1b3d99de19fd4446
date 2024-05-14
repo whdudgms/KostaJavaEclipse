@@ -1,0 +1,37 @@
+package com.kosta.exam;
+
+import java.util.Scanner;
+
+public class Homework {
+    public static void main(String[] args) {
+        
+        String[] str = 
+            {
+                    "천귀",
+                    "천액",
+                    "천권",
+                    "천파",
+                    "천인",
+                    "천문",
+                    "천복",
+                    "천고",
+                    "천역",
+                    "천간", 
+                    "천수",
+                    "천명"    //12개 
+            };
+        Scanner sc = new Scanner(System.in);
+        // 띠 월 일 생시 전부 숫자로 입력받자
+        System.out.println("무슨 띠니? 숫자로 입력해주세요 ");
+        System.out.println("무슨 띠니? 숫자로 입력해주세요 ");
+        System.out.println("0: 쥐 \n1: 소 \n2: 범 \n3: 토끼 \n4: 용 \n5: 뱀 \n6: 말 \n7: 양 \n8: 원숭이 \n9: 닭 \n10: 개 \n11: 돼지 ");
+        int num1 = sc.nextInt();
+        System.out.println("무슨 월이에요?? (단순 숫자만 입력해주세요) ");
+        int num2 = sc.nextInt();
+        System.out.println("무슨 일이에요?? (단순 숫자만 입력해주세요) ");
+        int num3 = sc.nextInt();
+
+
+    }
+
+}

@@ -1,0 +1,27 @@
+package com.kosta.exam;
+
+public class Homework {
+	public static void main(String[] args) {
+		
+		String[] str = 
+			{
+					"천귀",
+					"천액",
+					"천권",
+					"천파",
+					"천인",
+					"천문",
+					"천복",
+					"천고",
+					"천역",
+					"천간", 
+					"천수",
+					"천명"	//12개 
+			};
+		// 띠 월 일 생시 전부 숫자로 입력받자
+		System.out.println("무슨 띠니? 숫자로 입력해주세요");
+		System.out.printf("0: 쥐 \n 1:소 \n 2:범 \n 3:토끼 \n 4:용 \n 5:뱀 \n 6:말 \n 7:양 \n 8:원숭이 \n 9:닭 n\ 10:개 \n 11:돼지 \n  ");
+
+	}
+
+}
