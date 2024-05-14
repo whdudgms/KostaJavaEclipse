@@ -1,0 +1,11 @@
+package com.kosta.exam;
+
+public class D14MethodTestAdd {
+	
+	//정수형 2개를 매개변수로 전달받아 더하기 한 결과를 출력 하는 메서드 정의
+	printAdd(){}
+	
+	public static void main(String[] args) {
+		
+	}	
+}

@@ -1,0 +1,8 @@
+package com.kosta.exam;
+
+public class D03ArrayForEach {
+	public static void main(String[] args) {
+		int []numbers =new int[5];
+	}
+
+}

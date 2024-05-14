@@ -1,0 +1,14 @@
+package com.kosta.exam;
+
+public class D22MethodEqualsArray {
+	
+	public static boolean equalsArr(int[] a, int[] b) {
+		flag = true;
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
