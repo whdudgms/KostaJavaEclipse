@@ -1,14 +1,33 @@
-package com.kosta.exam04;
+package com.kosta.exam05;
 
 class Person{
-	String name;
-	String gender;
-	int age;
+	private String name;
+	private String gender;
+	private int age;
+	
+	public String getName() {
+		return name;
+	}
+	public String getGender() {
+		return gender;
+	}
+	public int getAge() {
+		return age;
+	}
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+	public void setGender(String gender) {
+		this.gender = gender;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
 	
 	public void eat(String food) {
 		System.out.printf("%s %d살 %s이(가) %s를(을) 먹음.\n", gender, age, name, food);
 	}
-	
 	public void walk(String where) {
 		System.out.printf("%s %d살 %s이(가) %s로 걸어감.\n", gender, age, name, where);
 	}
@@ -22,18 +41,17 @@ public class PersonTest {
 		lee = new Person();				//참조자료형은 객체를 생성하고 사용할 수 있다.
 		Person kim = new Person();  	//참조변수를 선언하면서 바로 생성할 수 있어요.
 		
-		lee.name 	= "이재원";
-		lee.gender 	= "남자";
-		lee.age 	= 28;
+		lee.setName("이재원");
+		lee.setGender("남자"); 
+		lee.setAge(29);
 		
-		kim.name 	= "김예은";
-		kim.gender 	= "여자";
-		kim.age 	= 26;
+		kim.setName("김예은");
+		kim.setGender("여자"); 
+		kim.setAge(26);
 		
 		lee.eat("아이스크림");
-		lee.eat("청계천");
-		System.out.println();
+		lee.walk("청계천");
 		kim.eat("과자");
-		kim.eat("종각");
+		kim.walk("종각");
 	}
 }
