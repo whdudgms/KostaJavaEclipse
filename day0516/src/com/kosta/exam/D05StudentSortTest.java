@@ -29,9 +29,42 @@ public class D05StudentSortTest {
 			avg[i] = (kor[i] + eng[i] +math[i])/3.0;
 		}
 		
-		System.out.println("		*** 성적 처리 결과 ***");
-		System.out.println("\t이름\t국어\t수학\t총점\t평균");
-		System.out.println("------------------------------------------------");
+		// 성적이 높은 순으로 정렬하기 
+		String tempS ="";
+		int tempI =0;
+		double tempD =0.0;
+		for(int i = 0; i  < tot.length; i++) {
+			for(int j = i+1; j < tot.length; j++){
+				if(tot[j] > tot[i]) {
+					tempS = name[i];
+					name[i] = name[j];
+					name[j] = tempS;
+					
+					tempI = kor[i];
+					kor[i] = kor[j];
+					kor[j] = tempI;
+					
+					tempI = eng[i];
+					eng[i] = eng[j];
+					eng[j] = tempI;
+					
+					tempI = math[i];
+					math[i] = math[j];
+					math[j] = tempI;
+					
+					tempI = tot[i];
+					tot[i] = tot[j];
+					tot[j] = tempI;
+					
+					tempD = avg[i];
+					avg[i] = avg[j];
+					avg[j] = tempD;
+				}
+			}  
+		}
+		System.out.println("		*** 성적순 처리 결과 ***");
+		System.out.println("\t이름\t국어\t영어\t수학\t총점\t평균");
+		System.out.println("------------------------------------------------------------ -");
 		for(int i = 0; i<name.length; i++) {
 			System.out.printf("\t%s\t%d\t%d\t%d\t%d\t%.2f\n",
 					name[i],kor[i],eng[i],math[i],tot[i],avg[i]);
