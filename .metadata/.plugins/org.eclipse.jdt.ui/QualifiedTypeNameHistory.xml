@@ -3,4 +3,8 @@
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.kosta.exam06.Rectangle"/>
+    <fullyQualifiedTypeName name="com.kosta.exam07.Employee"/>
+    <fullyQualifiedTypeName name="com.kosta.exam08.Proto"/>
 </qualifiedTypeNameHistroy>
