@@ -1,9 +1,0 @@
-package day0513;
-
-import java.util.Scanner;
-
-public class D22_MaxName {
-	
-	Scanner sc = new Scanner(System.in);
-
-}

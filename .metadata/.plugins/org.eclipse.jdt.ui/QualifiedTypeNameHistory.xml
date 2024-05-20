@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.kosta.exam06.Rectangle"/>
-    <fullyQualifiedTypeName name="com.kosta.exam07.Employee"/>
     <fullyQualifiedTypeName name="com.kosta.exam08.Proto"/>
     <fullyQualifiedTypeName name="com.kosta.exam09.Movie"/>
     <fullyQualifiedTypeName name="com.kosta.exam17.BankAccount"/>
@@ -17,4 +14,23 @@
     <fullyQualifiedTypeName name="com.kosta.exam29.Family"/>
     <fullyQualifiedTypeName name="com.kosta.exam30.Plane"/>
     <fullyQualifiedTypeName name="com.kosta.exam31.Bird"/>
+    <fullyQualifiedTypeName name="com.kosta.exam01.MyUtil"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.kosta.exam03.B"/>
+    <fullyQualifiedTypeName name="com.kosta.exam03.A"/>
+    <fullyQualifiedTypeName name="com.kosta.exam05.Person"/>
+    <fullyQualifiedTypeName name="com.kosta.exam05.Customer"/>
+    <fullyQualifiedTypeName name="com.kosta.exam06.Magazine"/>
+    <fullyQualifiedTypeName name="com.kosta.exam07.Employee"/>
+    <fullyQualifiedTypeName name="com.kosta.exam07.SalariedEmployee"/>
+    <fullyQualifiedTypeName name="com.kosta.exam07.HourlyEmployee"/>
+    <fullyQualifiedTypeName name="com.kosta.exam08.Quadrangle"/>
+    <fullyQualifiedTypeName name="com.kosta.exam08.Circle"/>
+    <fullyQualifiedTypeName name="java.awt.Rectangle"/>
+    <fullyQualifiedTypeName name="com.kosta.exam09.Shape"/>
+    <fullyQualifiedTypeName name="com.kosta.exam09.Circle"/>
+    <fullyQualifiedTypeName name="com.kosta.exam09.Quadrangle"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.kosta.exam10.Quadrangle"/>
+    <fullyQualifiedTypeName name="com.kosta.exam10.Circle"/>
 </qualifiedTypeNameHistroy>
