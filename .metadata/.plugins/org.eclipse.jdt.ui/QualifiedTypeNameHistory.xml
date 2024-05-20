@@ -7,4 +7,14 @@
     <fullyQualifiedTypeName name="com.kosta.exam06.Rectangle"/>
     <fullyQualifiedTypeName name="com.kosta.exam07.Employee"/>
     <fullyQualifiedTypeName name="com.kosta.exam08.Proto"/>
+    <fullyQualifiedTypeName name="com.kosta.exam09.Movie"/>
+    <fullyQualifiedTypeName name="com.kosta.exam17.BankAccount"/>
+    <fullyQualifiedTypeName name="com.kosta.exam18.BankAccount"/>
+    <fullyQualifiedTypeName name="com.kosta.exam19.BankAccount"/>
+    <fullyQualifiedTypeName name="com.kosta.exam23.Dice"/>
+    <fullyQualifiedTypeName name="com.kosta.exam24.Person"/>
+    <fullyQualifiedTypeName name="com.kosta.exam28.Family"/>
+    <fullyQualifiedTypeName name="com.kosta.exam29.Family"/>
+    <fullyQualifiedTypeName name="com.kosta.exam30.Plane"/>
+    <fullyQualifiedTypeName name="com.kosta.exam31.Bird"/>
 </qualifiedTypeNameHistroy>
