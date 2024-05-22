@@ -1,8 +1,0 @@
-package com.kosta.exam;
-
-public class D10MethodTest {
-
-	public static void main(String[] args) {
-		System.out.pritnln("시우야 안녕");
-	}
-}

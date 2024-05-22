@@ -16,7 +16,4 @@ public class Novel extends Book{
 		super(number, title, author);
 	}
 	
-	
-	
-
 }

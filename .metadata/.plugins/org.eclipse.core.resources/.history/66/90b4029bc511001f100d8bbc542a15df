@@ -1,7 +1,0 @@
-package com.kosta.exam;
-
-public class D26MatrixTest {
-	public static void main(String[] args) {
-		int[] a = {10,20,30,40,50};
-	}
-}
