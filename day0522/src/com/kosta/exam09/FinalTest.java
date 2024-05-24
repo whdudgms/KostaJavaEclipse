@@ -1,26 +1,16 @@
 package com.kosta.exam09;
 
-final class Al{
-	
-}
-
-class Bl extends Al{
-	
-}
-
-class Ml {
-	final void method1() {}
-}
-
-class Ml2 extends Ml{
-	void method1() {
-		
-	}
-}
-
-public class FinalTest {
+public class FinalTest{
 	public static void main(String[] args) {
+
+		
+		// final이 붙으면 
+		// 클래스는 상속금지 
+		// 메서드는 오버라이딩 금지
+		// 변수는 상수로 바뀜 (대문자 표기)
+		
+		
+		
 		
 	}
-
 }

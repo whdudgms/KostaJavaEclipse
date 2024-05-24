@@ -10,8 +10,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="PI"/>
+		<item key="selection" value="equals"/>
 		<list key="findhistory">
+			<item value="equals"/>
 			<item value="Fi"/>
 			<item value="length"/>
 		</list>
