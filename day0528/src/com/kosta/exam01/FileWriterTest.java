@@ -12,5 +12,7 @@ public class FileWriterTest {
 		fw.close();
 		System.out.println("파일을 생성하였습니다.");
 		
+		System.out.println(new IOException().getStackTrace());
+		
 	}
 }

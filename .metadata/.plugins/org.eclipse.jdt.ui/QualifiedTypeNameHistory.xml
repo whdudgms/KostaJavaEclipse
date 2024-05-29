@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.kosta.exam10.Quadrangle"/>
-    <fullyQualifiedTypeName name="com.kosta.exam10.Circle"/>
-    <fullyQualifiedTypeName name="com.kosta.exam01.Employee"/>
-    <fullyQualifiedTypeName name="com.kosta.exam01.SalariedEmployee"/>
-    <fullyQualifiedTypeName name="com.kosta.exam01.HourlyEmployee"/>
-    <fullyQualifiedTypeName name="java.awt.geom.Area"/>
-    <fullyQualifiedTypeName name="com.kosta.exam03.Triangle"/>
-    <fullyQualifiedTypeName name="com.kosta.exam03.Cube"/>
-    <fullyQualifiedTypeName name="com.kosta.exam03.Cylinder"/>
-    <fullyQualifiedTypeName name="com.kosta.exam03.Rectangle"/>
-    <fullyQualifiedTypeName name="com.kosta.exam03.TwoDimShape"/>
-    <fullyQualifiedTypeName name="com.kosta.exam03.TriDimShape"/>
-    <fullyQualifiedTypeName name="com.kosta.exam01.Product"/>
     <fullyQualifiedTypeName name="com.kosta.exam01.DiscountProduct"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
     <fullyQualifiedTypeName name="com.kosta.exam05.Book"/>
@@ -58,6 +45,19 @@
     <fullyQualifiedTypeName name="MyLineEvent"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="com.kosta.exam01.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="com.kosta.exam01.FileWriterTest"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.kosta.exam01.HarmonicMeanTest2"/>
+    <fullyQualifiedTypeName name="com.kosta.exam01.NotHarmonicMeanException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.kosta.exam01.NotFoundException"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="com.kosta.exam03.MyDate"/>
 </qualifiedTypeNameHistroy>
