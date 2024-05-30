@@ -10,8 +10,10 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="calculateCheckDigit"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="Grid"/>
+			<item value="grid"/>
 			<item value="calculateCheckDigit"/>
 			<item value="lp"/>
 			<item value="equals"/>
@@ -25,7 +27,7 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1118"/>
+		<item key="DIALOG_X_ORIGIN" value="730"/>
 		<item key="DIALOG_Y_ORIGIN" value="182"/>
 		<item key="DIALOG_WIDTH" value="322"/>
 		<item key="DIALOG_HEIGHT" value="391"/>

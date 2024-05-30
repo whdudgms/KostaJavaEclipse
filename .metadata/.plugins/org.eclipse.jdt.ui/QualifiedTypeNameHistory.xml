@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.kosta.exam06.LinePanel"/>
-    <fullyQualifiedTypeName name="com.kosta.exam06.MyFrame"/>
-    <fullyQualifiedTypeName name="com.kosta.exam07.GrapicInfo"/>
-    <fullyQualifiedTypeName name="java.awt.Frame"/>
-    <fullyQualifiedTypeName name="java.awt.event.MouseListener"/>
-    <fullyQualifiedTypeName name="java.awt.Panel"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
-    <fullyQualifiedTypeName name="com.kosta.exam01.MyFrame"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="java.util.TreeMap"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.lang.VerifyError"/>
-    <fullyQualifiedTypeName name="java.awt.MenuBar"/>
-    <fullyQualifiedTypeName name="java.awt.Menu"/>
-    <fullyQualifiedTypeName name="java.nio.charset.CharsetEncoder"/>
-    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
-    <fullyQualifiedTypeName name="MyLineEvent"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="com.kosta.exam01.StringTokenizer"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
@@ -35,7 +16,6 @@
     <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="com.kosta.exam03.MyDate"/>
-    <fullyQualifiedTypeName name="com.kosta.exam01.Person"/>
     <fullyQualifiedTypeName name="com.kosta.exam01.Man"/>
     <fullyQualifiedTypeName name="com.kosta.exam02.Person"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
@@ -54,10 +34,30 @@
     <fullyQualifiedTypeName name="com.kosta.game5.Enermy"/>
     <fullyQualifiedTypeName name="com.kosta.game5.Missile"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="MyThread"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.awt.Graphics"/>
     <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
     <fullyQualifiedTypeName name="com.kosta.game5.Player"/>
+    <fullyQualifiedTypeName name="com.kosta.exam01.Hello"/>
+    <fullyQualifiedTypeName name="com.kosta.exam01.Person"/>
+    <fullyQualifiedTypeName name="com.kosta.exam03.Account"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.kosta.exam08.Product"/>
+    <fullyQualifiedTypeName name="com.kosta.exam08.Consumer"/>
+    <fullyQualifiedTypeName name="com.kosta.exam08.Producer"/>
+    <fullyQualifiedTypeName name="com.kosta.exam09.MyFrame"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap.KeySetView"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="java.awt.GridLayout"/>
+    <fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="com.kosta.exam11.BoarderLayoutTest"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="java.awt.datatransfer.Clipboard"/>
 </qualifiedTypeNameHistroy>
