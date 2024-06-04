@@ -12,6 +12,9 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="ServerThread"/>
+			<item value="&quot;top&quot;,"/>
+			<item value="num"/>
 			<item value="Grid"/>
 			<item value="grid"/>
 			<item value="calculateCheckDigit"/>
@@ -21,13 +24,14 @@
 			<item value="length"/>
 		</list>
 		<list key="replacehistory">
+			<item value="cnt"/>
 			<item value="dp"/>
 			<item value="PI"/>
 			<item value="height"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="730"/>
+		<item key="DIALOG_X_ORIGIN" value="656"/>
 		<item key="DIALOG_Y_ORIGIN" value="182"/>
 		<item key="DIALOG_WIDTH" value="322"/>
 		<item key="DIALOG_HEIGHT" value="391"/>

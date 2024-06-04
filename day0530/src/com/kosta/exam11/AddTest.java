@@ -23,13 +23,11 @@ public class AddTest extends JFrame {
 		jtf01 = new JTextField(10);
 		jtf02 = new JTextField(10);
 		jtf03 = new JTextField(10);
-		
 		JPanel p_center = new JPanel();
 		JPanel p_south = new JPanel();
 		
 		p_center.setLayout(new GridLayout(3, 2));
 		p_south.setLayout(new FlowLayout(FlowLayout.CENTER));
-		
 		p_center.add(new JLabel("첫번째 정수:"));
 		p_center.add(jtf01);
 		p_center.add(new JLabel("두번째 정수:"));
