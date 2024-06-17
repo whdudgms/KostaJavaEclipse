@@ -47,10 +47,6 @@ public class GoodsDAO {
 		}		
 		return re;
 	}	
-
-	
-	
-	
 	
 	public static ArrayList<GoodsVO> selectAllGoods() {
 		ArrayList<GoodsVO> list = new ArrayList<GoodsVO>();
